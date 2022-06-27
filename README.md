@@ -17,9 +17,9 @@ Useful shortcuts to navigate Lubuntu 22.04
 
 ## *Shortcut Number 3*
 ### Switching desktops
-1.Control
-2.Alt 
-3.Left or Right arrow keys
+1. Control
+2. Alt 
+3. Left or Right arrow keys
 
 ## *Shortcut Number 4*
 ### Getting out of one desktop
