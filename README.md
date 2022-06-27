@@ -25,3 +25,8 @@ Left or Right arrow keys
 ### Getting out of one desktop
 Command
 D
+
+## *Shortcut Number 5*
+### Switching windows
+Alt 
+Tab
