@@ -20,3 +20,8 @@ T
 Control
 Alt 
 Left or Right arrow keys
+
+## *Shortcut Number 4*
+### Getting out of one desktop
+Command
+D
