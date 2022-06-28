@@ -1,5 +1,5 @@
 # Keyboard-Shortcuts
-Useful shortcuts to navigate Lubuntu 22.04
+Useful shortcuts to navigate Lubuntu 22.04. (Also includes some terminal commands)
 
 ## *Shortcut Number 1*
 ### Opening application menu and an application:
@@ -20,3 +20,7 @@ Cmd + D
 ## *Shortcut Number 5*
 ### Switching windows
 Alt + Tab
+
+## *Terminal Command Number 1*
+### Closing Terminal
+Type: Exit
