@@ -24,3 +24,7 @@ Alt + Tab
 ## *Terminal Command Number 1*
 ### Closing Terminal
 Type: Exit
+
+## *Terminal Command Number 2*
+### Shutting Down your Computer
+Type: Shutdown
